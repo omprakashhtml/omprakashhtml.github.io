@@ -576,9 +576,22 @@ p {
   padding-top: 42px;
   padding-bottom: 47px;
   background-color: #fdfbee; }
+  .program .program-lower .left-arrow {
+    position: absolute;
+    top: 50%;
+    left: -80px;
+    margin-top: -25px;
+    cursor: pointer; }
+  .program .program-lower .right-arrow {
+    position: absolute;
+    top: 50%;
+    right: -80px;
+    margin-top: -25px;
+    cursor: pointer; }
   .program .program-lower .container {
     display: flex;
-    justify-content: space-between; }
+    justify-content: space-between;
+    position: relative; }
   .program .program-lower .left {
     padding-right: 70px; }
   .program .program-lower .right {
