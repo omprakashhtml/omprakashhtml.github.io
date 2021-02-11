@@ -849,6 +849,8 @@ p {
     display: flex;
     justify-content: flex-end;
     margin-top: 100px; }
+    .edge-banner .edge-logo img {
+      width: 431px; }
 
 .program-title {
   font-family: lato;
