@@ -218,7 +218,8 @@ p {
     display: block;
     cursor: pointer;
     background-color: #ff8c00;
-    background-image: url(../images/message-icon.png);
+    background-image: url(../images/mail-icon.svg);
+    background-size: 58px;
     background-repeat: no-repeat;
     background-position: center center; }
   .get-in-touch .form-control {
@@ -366,7 +367,8 @@ p {
     display: flex;
     height: 104px;
     line-height: 104px;
-    background-image: url(../images/microphone.png);
+    background-image: url(../images/microphone.svg);
+    background-size: 76px;
     background-repeat: no-repeat;
     background-position: left center;
     padding-left: 90px;
@@ -383,7 +385,8 @@ p {
     display: flex;
     height: 104px;
     line-height: 104px;
-    background-image: url(../images/mentorship-icon.png);
+    background-image: url(../images/mentorship-icon.svg);
+    background-size: 91px;
     background-repeat: no-repeat;
     background-position: left center;
     padding-left: 120px;
@@ -431,7 +434,8 @@ p {
       display: flex;
       height: 104px;
       line-height: 104px;
-      background-image: url(../images/global.png);
+      background-image: url(../images/globe.svg);
+      background-size: 70px;
       background-repeat: no-repeat;
       background-position: left center;
       padding-left: 90px;
@@ -655,7 +659,7 @@ p {
       outline: 0px;
       display: block;
       cursor: pointer;
-      background-image: url(../images/message-icon.png);
+      background-image: url(../images/mail-icon.svg);
       background-repeat: no-repeat;
       background-position: center center;
       background-size: 50%;
